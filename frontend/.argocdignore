@@ -1,0 +1,27 @@
+# Ignore TypeScript config files
+tsconfig.json
+tsconfig.node.json
+tsconfig.prod.json
+
+# Ignore Vite config
+vite.config.ts
+
+# Ignore test files
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+__tests__
+
+# Ignore Jest config
+jest.config.ts
+
+# Ignore Tailwind/PostCSS
+postcss.config.js
+tailwind.config.js
+
+# Ignore node_modules
+node_modules
+
+# Ignore README
+README.md
